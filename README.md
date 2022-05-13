@@ -28,3 +28,13 @@ Steps:
 1. Place the (extracted) ROMs into the batch/ROM folder.
 2. Run the `batch.py` script.
 3. After a short time, the generated .uf2 files should be in the uf2 folder.
+
+## Hardware Side
+### BOM
+| Component | Amount | 
+|-----------|--------|
+|Raspberry Pi Pico | 1 |
+|74LVC245AT20 | 3 |
+
+### PCB
+The PCB can be ordered using the Gerber files. A width of **1.2 mm** should be chosen with ENIG surface.
