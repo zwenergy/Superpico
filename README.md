@@ -1,6 +1,8 @@
 # Superpico
 A Raspberry Pi Pico-based Supervision Flash Cart
 
+![Superpico](./images/superpico_incase_s.png "Superpico")
+
 This is an RP2040-based flash cartridge for the Watara Supervision handheld.
 The RP2040 acts as the ROM chip of the cart.
 The cartridge can hold one game at a time.
@@ -38,3 +40,7 @@ Steps:
 
 ### PCB
 The PCB can be ordered using the Gerber files. A width of **1.0 mm or 1.2 mm** should be chosen with ENIG surface.
+
+![PCB0](./images/superpico_pcb0_s.png "PCB0")
+
+![PCB1](./images/superpico_pcb1_s.png "PCB1")
