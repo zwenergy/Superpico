@@ -44,3 +44,8 @@ The PCB can be ordered using the Gerber files. A width of **1.0 mm or 1.2 mm** s
 ![PCB0](./images/superpico_pcb0_s.png "PCB0")
 
 ![PCB1](./images/superpico_pcb1_s.png "PCB1")
+
+## Disclaimer
+**Use the files and/or schematics to build your own board at your own risk**.
+This board works fine for me, but it's a simple hobby project, so there is no liability for errors in the schematics and/or board files.
+**Use at your own risk**.
