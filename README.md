@@ -37,4 +37,4 @@ Steps:
 |74LVC245AT20 | 3 |
 
 ### PCB
-The PCB can be ordered using the Gerber files. A width of **1.2 mm** should be chosen with ENIG surface.
+The PCB can be ordered using the Gerber files. A width of **1.0mm or 1.2 mm** should be chosen with ENIG surface.
